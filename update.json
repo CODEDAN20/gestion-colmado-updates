@@ -1,5 +1,5 @@
 {
   "version": "1.0.2",
   "notes": "Actualización 1.0.2: Implementación de cobro avanzado en POS, facturación con NCF (Consumidor Final B02 y Crédito Fiscal B01 con RNC/Razón Social), persistencia de carrito POS y soporte de datos bancarios para transferencias.",
-  "url": "https://github.com/CODEDAN20/gestion-colmado-updates/releases/download/v1.0.2/Gestion.Colmado.Setup.1.0.2.exe"
+  "url": "https://github.com/CODEDAN20/gestion-colmado-updates/releases/download/102/Gestion.Colmado.Setup.1.0.2.exe"
 }
