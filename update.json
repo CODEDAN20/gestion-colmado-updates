@@ -1,5 +1,5 @@
 {
-  "version": "1.0.1",
-  "notes": "Paridad de funciones completada: editor y configurador de etiquetas, impresión nativa silenciosa, mejoras en límites de crédito, barra de progreso, abono rápido y recordatorios por WhatsApp.",
-  "url": "https://github.com/CODEDAN20/gestion-colmado-updates/releases/download/Actualizaci%C3%B3n/Gestion.Colmado.Setup.1.0.1.exe"
+  "version": "1.0.2",
+  "notes": "Actualización 1.0.2: Implementación de cobro avanzado en POS, facturación con NCF (Consumidor Final B02 y Crédito Fiscal B01 con RNC/Razón Social), persistencia de carrito POS y soporte de datos bancarios para transferencias.",
+  "url": "https://github.com/CODEDAN20/gestion-colmado-updates/releases/download/Actualizaci%C3%B3n/Gestion.Colmado.Setup.1.0.2.exe"
 }
